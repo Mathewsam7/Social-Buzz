@@ -35,7 +35,7 @@ Hint: You can use a “VLookUp” formula
 Add up the total scores for each category.
 Hint: You can use the “Sum If” formula
 
-#### The end result should be one spreadsheet which contains:
+#### The end result is in one spreadsheet which contains:
 
 A cleaned dataset
 The top 5 categories
